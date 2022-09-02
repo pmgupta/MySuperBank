@@ -1,0 +1,8 @@
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\bin\Debug\BankyStuffLibrary.dll
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\bin\Debug\BankyStuffLibrary.pdb
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\bin\Debug\Humanizer.dll
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\bin\Debug\Humanizer.xml
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.csproj.CopyComplete
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.dll
+C:\Users\shash\source\repos\MySuperBank\BankyStuffLibrary\obj\Debug\BankyStuffLibrary.pdb
